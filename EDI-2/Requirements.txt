@@ -1,0 +1,4 @@
+flask
+PIL
+datetime
+ultralytics
